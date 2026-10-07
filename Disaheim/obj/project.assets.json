@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cawer\\source\\repos\\Disaheim\\Disaheim\\Disaheim.csproj",
+      "projectUniqueName": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "C:\\Users\\Cawer\\source\\repos\\Disaheim\\Disaheim\\Disaheim.csproj",
+      "projectPath": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Disaheim.csproj",
       "packagesPath": "C:\\Users\\Cawer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cawer\\source\\repos\\Disaheim\\Disaheim\\obj\\",
+      "outputPath": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
