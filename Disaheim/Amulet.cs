@@ -6,30 +6,34 @@ namespace Disaheim
 {
     public class Amulet
     {
-        public string ItemId;
-        public string Design;
-        public Level Quality;
+        public string ItemId { get; set; }
+        public string Design { get; set; }
+        public Level Quality { get; set; }
 
-
-
-
-        public Amulet(string itemId)
+   
+        public Amulet(string itemId) : this(itemId, Level.Medium, null)
         {
-
         }
-        public Amulet(string itemId, string design)
+
+  
+        public Amulet(string itemId, Level quality) : this(itemId, quality, null)
         {
-
         }
-        public Amulet(string itemId, string design, Level quality)
+
+
+        public Amulet(string itemId, Level quality, string design)
         {
-
+            ItemId = itemId;
+            Quality = quality;
+            Design = design;
         }
+
         public override string ToString()
         {
-            return $"itemID: {ItemId}, Design: {Design}, Quality: {Quality}";
+           
+        
+            return $"ItemId: {ItemId}, Quality: {Quality}, Design: {Design}";
+        
         }
-
-
     }
 }

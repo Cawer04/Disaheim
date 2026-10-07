@@ -17,16 +17,19 @@ namespace Disaheim
         public Book(string itemId)
         {
 
-
+            ItemId = itemId;
 
         }
         public Book(string itemId, string title)
         {
-
+            ItemId = itemId;
+            Title = title;
         }
         public Book (string itemId, string title, double price)
         {
-
+            ItemId = itemId;
+            Title = title;
+            Price = price;
         }
         public override string ToString()
         {
