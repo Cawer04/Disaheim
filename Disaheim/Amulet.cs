@@ -6,9 +6,9 @@ namespace Disaheim
 {
     public class Amulet
     {
-        public string ItemId { get; set; }
-        public string Design { get; set; }
-        public Level Quality { get; set; }
+        public string ItemId;
+        public string Design;
+        public Level Quality;
 
    
         public Amulet(string itemId) : this(itemId, Level.Medium, null)
