@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cawer\\Desktop\\Disaheim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAA4076-37F7-43A7-915D-E8E18371F61A}|DiaheimTest\\DiaheimTest.csproj|c:\\users\\cawer\\desktop\\disaheim\\diaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAA4076-37F7-43A7-915D-E8E18371F61A}|DiaheimTest\\DiaheimTest.csproj|solutionrelative:diaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1791D5EE-A918-467D-A6C6-20F55CEB64B9}|DisaheimControllerTest\\DisaheimControllerTest.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheimcontrollertest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1791D5EE-A918-467D-A6C6-20F55CEB64B9}|DisaheimControllerTest\\DisaheimControllerTest.csproj|solutionrelative:disaheimcontrollertest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheim\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB8A534-65D7-4687-B094-8F31FBCBB7ED}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB8A534-65D7-4687-B094-8F31FBCBB7ED}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheim\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|c:\\users\\cawer\\desktop\\disaheim\\disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23456564-8659-4A2E-E03B-F806506AB0A7}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\DisaheimControllerTest\\Test1.cs",
+              "RelativeDocumentMoniker": "DisaheimControllerTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\DisaheimControllerTest\\Test1.cs",
+              "RelativeToolTip": "DisaheimControllerTest\\Test1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:28:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Controller.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Controller.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Controller.cs",
+              "RelativeToolTip": "Disaheim\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:20:15.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\DiaheimTest\\Test1.cs",
+              "RelativeDocumentMoniker": "DiaheimTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\DiaheimTest\\Test1.cs",
+              "RelativeToolTip": "DiaheimTest\\Test1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:13:53.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Utility.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Utility.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Utility.cs",
+              "RelativeToolTip": "Disaheim\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:03:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\DisaheimTest\\Test1.cs",
+              "RelativeDocumentMoniker": "DisaheimTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\DisaheimTest\\Test1.cs",
+              "RelativeToolTip": "DisaheimTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T07:18:53.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Book.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Book.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Book.cs",
+              "RelativeToolTip": "Disaheim\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:43:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Amulet.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Amulet.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Amulet.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Amulet.cs",
+              "RelativeToolTip": "Disaheim\\Amulet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:42:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Level.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Level.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Level.cs",
+              "RelativeToolTip": "Disaheim\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T08:40:06.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Program.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Program.cs",
+              "ToolTip": "C:\\Users\\Cawer\\Desktop\\Disaheim\\Disaheim\\Program.cs",
+              "RelativeToolTip": "Disaheim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:40:07.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

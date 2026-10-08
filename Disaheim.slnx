@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="DiaheimTest/DiaheimTest.csproj" Id="ceaa4076-37f7-43a7-915d-e8e18371f61a" />
   <Project Path="Disaheim/Disaheim.csproj" />
+  <Project Path="DisaheimControllerTest/DisaheimControllerTest.csproj" Id="1791d5ee-a918-467d-a6c6-20f55ceb64b9" />
   <Project Path="DisaheimTest/DisaheimTest.csproj" Id="8db8a534-65d7-4687-b094-8f31fbcbb7ed" />
 </Solution>
